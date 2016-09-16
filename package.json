@@ -1,0 +1,14 @@
+{
+  "name": "rocketshowdown",
+  "version": "0.0.0",
+  "description": "rocket showdown",
+  "main": "server.js",
+  "repository": "",
+  "author": "Aaron Baker",
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "socket.io": "~0.9.14"
+  }
+}
